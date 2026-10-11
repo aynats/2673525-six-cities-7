@@ -1,4 +1,4 @@
-import { Goods } from "./offer.type";
+import { Goods } from './offer.type';
 
 export type MockServerData = {
   titles: string[];
