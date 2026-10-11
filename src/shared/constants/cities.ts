@@ -1,4 +1,4 @@
-import { City, Location } from "../types";
+import { City, Location } from '../types/index.js';
 
 export const CITY_LOCATIONS: Record<City, Location> = {
   Paris: { latitude: 48.85661, longitude: 2.351499 },
@@ -8,3 +8,5 @@ export const CITY_LOCATIONS: Record<City, Location> = {
   Hamburg: { latitude: 53.550341, longitude: 10.000654 },
   Dusseldorf: { latitude: 51.225402, longitude: 6.776314 },
 };
+
+export const CITIES = Object.keys(CITY_LOCATIONS) as City[];
