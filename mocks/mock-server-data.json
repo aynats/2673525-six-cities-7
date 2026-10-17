@@ -1,0 +1,72 @@
+{
+  "api": {
+    "titles": [
+      "Уютная квартира в центре",
+      "Тихий дом у каналов",
+      "Светлая студия рядом с вокзалом",
+      "Просторные апартаменты с видом на реку",
+      "Дом с садом в тихом районе"
+    ],
+    "descriptions": [
+      "Светлая квартира с просторным балконом, обновлённой кухней и удобным расположением рядом с метро.",
+      "Просторный дом рядом с каналами, с уютной столовой и светлой гостиной для комфортного проживания.",
+      "Студия с современным ремонтом в шаговой доступности от основных достопримечательностей.",
+      "Апартаменты с панорамным видом, идеально подходят для семейного отдыха или командировки.",
+      "Тихий дом с садом, где можно отдохнуть от городской суеты и насладиться природой.",
+      "Лофт с высокими потолками, кирпичными стенами и дизайнерской мебелью в историческом центре.",
+      "Уютная комната в семейной квартире, есть всё необходимое для короткого и длительного проживания."    ],
+    "previewUrls": [
+      "https://example.com/paris-preview.jpg",
+      "https://example.com/amsterdam-preview.jpg",
+      "https://example.com/studio-preview.jpg",
+      "https://example.com/river-preview.jpg",
+      "https://example.com/garden-preview.jpg"
+    ],
+    "imageUrls": [
+      "https://example.com/photo-1.jpg",
+      "https://example.com/photo-2.jpg",
+      "https://example.com/photo-3.jpg",
+      "https://example.com/photo-4.jpg",
+      "https://example.com/photo-5.jpg",
+      "https://example.com/photo-6.jpg",
+      "https://example.com/photo-7.jpg",
+      "https://example.com/photo-8.jpg"
+    ],
+    "goods": [
+      "Breakfast",
+      "Air conditioning",
+      "Laptop friendly workspace",
+      "Baby seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "users": [
+      "Евгения Сергеева",
+      "Марк Гребнев",
+      "Иван Иванов",
+      "Олег Сидоров",
+      "Пьер Безухов",
+      "Антон Городецкий",
+      "Холи Гибни"
+    ],
+    "emails": [
+      "eugene1998@gmail.com",
+      "marquize@gmail.com",
+      "ivanov@mail.ru",
+      "sidorov@yandex.ru",
+      "pierre@pochta.local",
+      "anton@mir.local",
+      "holly@story.local"
+    ],
+    "avatars": [
+      "https://example.com/eugene-avatar.jpg",
+      "https://example.com/mark-avatar.jpg",
+      "https://example.com/user-1.jpg",
+      "https://example.com/user-2.jpg",
+      "https://example.com/user-3.jpg",
+      "https://example.com/user-4.jpg",
+      "https://example.com/user-5.jpg"
+    ]
+  }
+}
